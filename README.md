@@ -30,7 +30,7 @@ Verge allows you to scope out opponents and understand their playstyle, strength
 ### VERGE takes a long time to load.
 > Unfortunately, VERGE relies on TETR.IO's API, which can sometimes get overloaded. Make sure not to close the profile window. **VERGE may take anywhere from 2-5 seconds to load.**
 ### I want to make my own version of VERGE! Am I allowed to do that?
-> **Yes!** VERGE is open source, licensed under Creative Commons BY-NC-SA 4.0! Learn more [here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+> **Yes!** VERGE is open source, licensed under Creative Commons BY-NC-SA 4.0! Learn more [here](https://creativecommons.org/licenses/by-nc-sa/4.0/)!
 ### Does VERGE hack my computer?
 > **No.**
 ### Will VERGE give me free wins?
