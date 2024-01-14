@@ -1,4 +1,4 @@
-![VERGE TETR.IO ANALYTICS](https://i.ibb.co/dWGBMcK/VERGE-LOGO-FULL.png)
+![VERGE TETR.IO ANALYTICS](https://i.ibb.co/60mS0Hg/VERGE-LOGO-FULL-1.png)
 
 A powerful analytics engine for TETR.IO
 
