@@ -35,6 +35,6 @@ Verge allows you to scope out opponents and understand their playstyle, strength
 > **No,** but we'll try our best to help you win!
 
 ## VERGE Images
-![VERGE analyzing Foxgirl](https://i.ibb.co/QDMXyBN/image-2024-01-13-212928597.png)
+![VERGE analyzing Foxgirl](https://i.ibb.co/BZBXw7v/image-2024-01-13-220049879.png)
 ![VERGE analyzing Parrotsarecool](https://i.ibb.co/XVShbQz/image-2024-01-13-213044681.png)
 ![VERGE analyzing osk](https://i.ibb.co/H2NSFkk/image-2024-01-13-213259240.png)
