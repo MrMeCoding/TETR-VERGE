@@ -386,7 +386,7 @@ window.addEventListener('load', function () {
 
 		var loadedObserver = new MutationObserver(mutations => {
 
-			if (stringify(updateData.version !== VERSION) && document.documentElement.getAttribute("style")) {
+			if (stringify(updateData.version) != VERSION && document.documentElement.getAttribute("style")) {
 
 				// console.log("Page loaded!");
 
