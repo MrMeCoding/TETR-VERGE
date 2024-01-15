@@ -4,5 +4,5 @@
   "desktop_update_url": "https://github.com/MrMeCoding/TETR-VERGE/raw/main/v0.0.1/VERGE-Desktop/app.asar",
   "desktoptplus_update_url": "https://github.com/MrMeCoding/TETR-VERGE/raw/main/v0.0.1/VERGE-TPLUS-Desktop/app.asar",
   "browser_update_url": "https://github.com/MrMeCoding/TETR-VERGE/raw/main/v0.0.1/VERGE-Browser/preload.js",
-  "patchnotes_url": "https://github.com/MrMeCoding/TETR-VERGE/blob/main/v0.0.1/README.MD"
+  "patchnotes_url": "github.com/MrMeCoding/TETR-VERGE/releases/latest"
 }
