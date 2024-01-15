@@ -1,4 +1,5 @@
 {
   "version": "0.0.1",
-  "version_nickname": "The First One"
+  "version_nickname": "The First One",
+  "update_url": "https://google.com"
 }
