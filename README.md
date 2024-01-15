@@ -16,13 +16,13 @@ Verge allows you to scope out opponents and understand their playstyle, strength
 	- More customization!
 	- Cloud saved Tetra League record
 	- Cloud saved TETR.IO configuration
-### Download VERGE!
+### [Download VERGE!](github.com/MrMeCoding/TETR-VERGE/releases/latest)
 
 ## FAQ
 ### What platforms does VERGE work on?
 > **All of them!** VERGE works on both TETR.IO desktop and browser!
 ### Does VERGE work with TETR.IO PLUS?
-> **Yes!** Go [here](https://google.com) to find out more!
+> **Yes!** Go [here](github.com/MrMeCoding/TETR-VERGE/releases/latest) to find out more!
 ### Will VERGE slow my computer down?
 > **No.** Tests have been run on multiple different computers, each with varying computational power. No frame rate drops or increased input latency was found when VERGE was used.
 ### Will I get banned for using VERGE?
