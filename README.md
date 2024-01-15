@@ -22,7 +22,7 @@ Verge allows you to scope out opponents and understand their playstyle, strength
 ### What platforms does VERGE work on?
 > **All of them!** VERGE works on both TETR.IO desktop and browser!
 ### Does VERGE work with TETR.IO PLUS?
-> **Yes!** Click download VERGE to find out more!
+> **Yes!** Go [here](https://google.com) to find out more!
 ### Will VERGE slow my computer down?
 > **No.** Tests have been run on multiple different computers, each with varying computational power. No frame rate drops or increased input latency was found when VERGE was used.
 ### Will I get banned for using VERGE?
