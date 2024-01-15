@@ -1,8 +1,8 @@
 {
   "version": "0.0.1",
   "version_nickname": "The First One",
-  "desktop_update_url": "https://google.com",
-  "desktoptplus_update_url": "https://google.com",
-  "browser_update_url": "https://google.com",
-  "patchnotes_url": "https://google.com"
+  "desktop_update_url": "https://github.com/MrMeCoding/TETR-VERGE/raw/main/v0.0.1/VERGE-Desktop/app.asar",
+  "desktoptplus_update_url": "https://github.com/MrMeCoding/TETR-VERGE/raw/main/v0.0.1/VERGE-TPLUS-Desktop/app.asar",
+  "browser_update_url": "https://github.com/MrMeCoding/TETR-VERGE/raw/main/v0.0.1/VERGE-Browser/preload.js",
+  "patchnotes_url": "https://github.com/MrMeCoding/TETR-VERGE/blob/main/v0.0.1/README.MD"
 }
