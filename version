@@ -1,6 +1,7 @@
 {
   "version": "0.0.1",
   "version_nickname": "The First One",
-  "update_url": "https://google.com",
+  "desktop_update_url": "https://google.com",
+  "browser_update_url": "https://google.com",
   "patchnotes_url": "https://google.com"
 }
