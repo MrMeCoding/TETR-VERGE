@@ -149,12 +149,12 @@ window.addEventListener('load', function () {
 				// console.log(mainUserMatchHistory);
 				// console.log(mainUserOpponents);
 
-				var mainUserMatchHistoryData = [];
+				var mainUserMatchHistoryData = await Promise.all(mainUserOpponents.map((user) => getData("users/" + user)));
 
-				for await (let user of mainUserOpponents) {
-					let data = await getData("users/" + user);
-					mainUserMatchHistoryData.push(data);
-				}
+				// for await (let user of mainUserOpponents) {
+				// 	let data = await getData("users/" + user);
+				// 	mainUserMatchHistoryData.push(data);
+				// }
 				// console.log(mainUserMatchHistoryData);
 
 				// console.log("User data fetched in " + (Date.now() - tStart) / 1000 + " seconds!")
