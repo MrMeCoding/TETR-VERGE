@@ -9,11 +9,26 @@ if (HASTPLUS) {
 	require('./tetrioplus/source/electron/preload');
 }
 
+const cacheSessionID = `SESS-${Math.floor(Math.random() * Number.MAX_SAFE_INTEGER)}`;
+const cache = new Map();
 
 // Some useful functions
 async function getData(req) {
+	let cacheData = cache.get(req);
+	if (!!cacheData) {
+		cacheData = await Promise.resolve(cacheData);
+		if (cacheData.success && new Date().getTime() < cacheData.cache.cached_until)
+			return cacheData;
+	}
 	const url = "https://ch.tetr.io/api/"
-	var data = await (await fetch(url + req)).json();
+	var data = (fetch(url + req, {
+    headers: {
+      "X-Session-ID": cacheSessionID,
+    },
+	})).then((res) => res.json());
+
+  cache.set(req, data);
+
 	return data;
 }
 function stringify(json) {
