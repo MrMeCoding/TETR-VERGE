@@ -1,9 +1,15 @@
-![VERGE TETR.IO ANALYTICS](https://i.ibb.co/60mS0Hg/VERGE-LOGO-FULL-1.png)
+<div align="center">
 
-A powerful analytics engine for TETR.IO
+<img src="VERGE-LOGO.png" alt="VERGE: TETR.IO ANALYTICS" width="400"></img>
 
-## What's Verge?
-Verge allows you to scope out opponents and understand their playstyle, strengths and weaknesses. VERGE automatically generates a player's traits by analyzing their  statistics and previous matchups. A key difference between VERGE and other TETR.IO tools is that VERGE displays these stats in-game. Instead of needing to tab to a different window and type a player's name to see their playstyle, VERGE allows you to view critical information with a single click.
+<strong>VERGE is a powerful TETR.IO analytics engine.</strong>
+
+</div>
+
+---
+
+## What's VERGE?
+VERGE allows you to scope out opponents and understand their playstyle, strengths and weaknesses. VERGE automatically generates a player's traits by analyzing their statistics and previous matchups. A key difference between VERGE and other TETR.IO tools is that VERGE displays these stats in-game. Instead of needing to tab to a different window and type a player's name to see their playstyle, VERGE allows you to view critical information with a single click.
 
 ## Features
 - Displays:
@@ -11,7 +17,8 @@ Verge allows you to scope out opponents and understand their playstyle, strength
 	- What playstyles they win/lose against
 	- Whether their stats are high/low relative to other players of similar skill
 	- If they tend to win/lose after winning/losing
-- Hovering over a trait displays additional information!
+> [!TIP]
+> Hovering over a trait displays additional information!
 - Upcoming Features:
 	- More customization!
 	- Cloud saved Tetra League record
