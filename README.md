@@ -1,9 +1,15 @@
-![VERGE TETR.IO ANALYTICS](https://i.ibb.co/60mS0Hg/VERGE-LOGO-FULL-1.png)
+<div align="center">
 
-A powerful analytics engine for TETR.IO
+<img src="VERGE-LOGO.png" alt="VERGE: TETR.IO ANALYTICS" width="400"></img>
 
-## What's Verge?
-Verge allows you to scope out opponents and understand their playstyle, strengths and weaknesses. VERGE automatically generates a player's traits by analyzing their  statistics and previous matchups. A key difference between VERGE and other TETR.IO tools is that VERGE displays these stats in-game. Instead of needing to tab to a different window and type a player's name to see their playstyle, VERGE allows you to view critical information with a single click.
+<strong>VERGE is a powerful TETR.IO analytics engine.</strong>
+
+</div>
+
+---
+
+## What's VERGE?
+VERGE allows you to scope out opponents and understand their playstyle, strengths and weaknesses. VERGE automatically generates a player's traits by analyzing their statistics and previous matchups. A key difference between VERGE and other TETR.IO tools is that VERGE displays these stats in-game. Instead of needing to tab to a different window and type a player's name to see their playstyle, VERGE allows you to view critical information with a single click.
 
 ## Features
 - Displays:
@@ -11,12 +17,42 @@ Verge allows you to scope out opponents and understand their playstyle, strength
 	- What playstyles they win/lose against
 	- Whether their stats are high/low relative to other players of similar skill
 	- If they tend to win/lose after winning/losing
-- Hovering over a trait displays additional information!
+> [!TIP]
+> Hovering over a trait displays additional information!
 - Upcoming Features:
 	- More customization!
 	- Cloud saved Tetra League record
 	- Cloud saved TETR.IO configuration
 ### [Download VERGE!](https://github.com/MrMeCoding/TETR-VERGE/releases/latest)
+
+## Installation
+
+### Windows
+1. Download either VERGE for Desktop or VERGE for Desktop with TETR.IO PLUS.
+2. Locate where TETR.IO Desktop's files are, for most users this is `C:\\Users\\<YOUR USERNAME>\\AppData\\Local\\Programs\\tetrio-desktop\\resources`.
+2. Replace `app.asar` with the file you downloaded.
+3. Enjoy!
+
+### MacOS
+1. Download either VERGE for Desktop or VERGE for Desktop with TETR.IO PLUS.
+2. Open Finder, go to Applications and find TETR.IO Desktop
+3. Right click TETR.IO Desktop and select "Show Package Contents".
+4. Navigate into the Contents folder and then into the Resources folder.
+5. Replace `app.asar` with the file you downloaded.
+6. Enjoy!
+
+### Browser
+> [!IMPORTANT]
+> VERGE currently only supports Chromium-based browsers.
+
+1. Open VERGE for Browser and download `preload.js` and `manifest.json`.
+2. Create a folder, the name doesn't matter.
+3. Move `preload.js` and `manifest.json` into that folder.
+4. Open your browser's extension page, for Chrome it's `chrome://extensions`. Enable developer mode if it is not already enabled.
+5. Click Load unpacked.
+6. Select the folder you created.
+7. Enjoy!
+
 
 ## FAQ
 > [!CAUTION]
@@ -86,7 +122,9 @@ Verge allows you to scope out opponents and understand their playstyle, strength
 	<p><b>No,</b> but we'll try our best to help you win!</p>
 </details>
 
-## VERGE Images
+---
+
+### Verge in action!
 ![VERGE analyzing Foxgirl](https://i.ibb.co/BZBXw7v/image-2024-01-13-220049879.png)
 ![VERGE analyzing Parrotsarecool](https://i.ibb.co/XVShbQz/image-2024-01-13-213044681.png)
 ![VERGE analyzing osk](https://i.ibb.co/H2NSFkk/image-2024-01-13-213259240.png)
