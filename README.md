@@ -19,6 +19,11 @@ Verge allows you to scope out opponents and understand their playstyle, strength
 ### [Download VERGE!](https://github.com/MrMeCoding/TETR-VERGE/releases/latest)
 
 ## FAQ
+> [!CAUTION]
+> **Do not report VERGE bugs in the TETR.IO discord or Github!**
+
+
+
 <details>
 	<b>All of them!</b> VERGE works on both TETR.IO desktop and browser!
 	<summary>
