@@ -25,6 +25,35 @@ VERGE allows you to scope out opponents and understand their playstyle, strength
 	- Cloud saved TETR.IO configuration
 ### [Download VERGE!](https://github.com/MrMeCoding/TETR-VERGE/releases/latest)
 
+## Installation
+
+### Windows
+1. Download either VERGE for Desktop or VERGE for Desktop with TETR.IO PLUS.
+2. Locate where TETR.IO Desktop's files are, for most users this is `C:\\Users\\<YOUR USERNAME>\\AppData\\Local\\Programs\\tetrio-desktop\\resources`.
+2. Replace `app.asar` with the file you downloaded.
+3. Enjoy!
+
+### MacOS
+1. Download either VERGE for Desktop or VERGE for Desktop with TETR.IO PLUS.
+2. Open Finder, go to Applications and find TETR.IO Desktop
+3. Right click TETR.IO Desktop and select "Show Package Contents".
+4. Navigate into the Contents folder and then into the Resources folder.
+5. Replace `app.asar` with the file you downloaded.
+6. Enjoy!
+
+### Browser
+> [!IMPORTANT]
+> VERGE currently only supports Chromium-based browsers.
+
+1. Open VERGE for Browser and download `preload.js` and `manifest.json`.
+2. Create a folder, the name doesn't matter.
+3. Move `preload.js` and `manifest.json` into that folder.
+4. Open your browser's extension page, for Chrome it's `chrome://extensions`. Enable developer mode if it is not already enabled.
+5. Click Load unpacked.
+6. Select the folder you created.
+7. Enjoy!
+
+
 ## FAQ
 > [!CAUTION]
 > **Do not report VERGE bugs in the TETR.IO discord or Github!**
@@ -93,7 +122,9 @@ VERGE allows you to scope out opponents and understand their playstyle, strength
 	<p><b>No,</b> but we'll try our best to help you win!</p>
 </details>
 
-## VERGE Images
+---
+
+### Verge in action!
 ![VERGE analyzing Foxgirl](https://i.ibb.co/BZBXw7v/image-2024-01-13-220049879.png)
 ![VERGE analyzing Parrotsarecool](https://i.ibb.co/XVShbQz/image-2024-01-13-213044681.png)
 ![VERGE analyzing osk](https://i.ibb.co/H2NSFkk/image-2024-01-13-213259240.png)
