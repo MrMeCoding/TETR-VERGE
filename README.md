@@ -141,14 +141,24 @@ VERGE allows you to scope out opponents and understand their playstyle, strength
 
 ## Contributing
 
-VERGE would love to get contributions from the userbase.
+VERGE would love to get contributions from the you!
 
-To contribute, please fork the repository, make your changes, and open a PR.
+If you've found an issue with VERGE, open an issue request and explain what the issue is and how to replicate it!
 
+To contribute, please fork the repository, make your changes, and open a pull request.
 Make sure to include a concise description of your changes in the PR.
+Due to the way VERGE updates work, we won't be able to directly merge the code in, but will likely include your code in an upcoming update!
 
 ### Our Contributors ✨
 
-<a href="https://github.com/MrMeCoding/TETR-VERGE/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MrMeCoding/TETR-VERGE" />
+<a href="https://github.com/MrMeCoding">
+  <img src="https://github.com/mrmecoding.png?size=75">
+</a>
+
+<a href="https://github.com/Sup3rFire">
+  <img src="https://github.com/sup3rfire.png?size=75">
+</a>
+
+<a href="https://github.com/orn8">
+  <img src="https://github.com/orn8.png?size=75">
 </a>
