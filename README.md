@@ -4,12 +4,21 @@
 
 <strong>VERGE is a powerful TETR.IO analytics engine.</strong>
 
+<a href="https://github.com/MrMeCoding/TETR-VERGE/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MrMeCoding/TETR-VERGE?style=for-the-badge"></a>
+<a href="https://github.com/MrMeCoding/TETR-VERGE/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-CC%204.0-purple?style=for-the-badge"></a>
+
 </div>
 
 ---
 
 ## What's VERGE?
 VERGE allows you to scope out opponents and understand their playstyle, strengths and weaknesses. VERGE automatically generates a player's traits by analyzing their statistics and previous matchups. A key difference between VERGE and other TETR.IO tools is that VERGE displays these stats in-game. Instead of needing to tab to a different window and type a player's name to see their playstyle, VERGE allows you to view critical information with a single click.
+
+## Demo
+
+<img src="demo.gif" alt="VERGE DEMO" width="800"></img>
+###### *VERGE does not change in game font*
+
 
 ## Features
 - Displays:
@@ -61,7 +70,7 @@ VERGE allows you to scope out opponents and understand their playstyle, strength
 
 
 <details>
-	<b>All of them!</b> VERGE works on both TETR.IO desktop and browser!
+	<b>Most platforms.</b> VERGE currently supports Desktop and Chromium-based browsers.
 	<summary>
 		<h3>What platforms does VERGE work on?</h3>
 	</summary>
@@ -122,9 +131,24 @@ VERGE allows you to scope out opponents and understand their playstyle, strength
 	<p><b>No,</b> but we'll try our best to help you win!</p>
 </details>
 
----
 
-### Verge in action!
+## Verge in action!
 ![VERGE analyzing Foxgirl](https://i.ibb.co/BZBXw7v/image-2024-01-13-220049879.png)
 ![VERGE analyzing Parrotsarecool](https://i.ibb.co/XVShbQz/image-2024-01-13-213044681.png)
 ![VERGE analyzing osk](https://i.ibb.co/H2NSFkk/image-2024-01-13-213259240.png)
+
+---
+
+## Contributing
+
+VERGE would love to get contributions from the userbase.
+
+To contribute, please fork the repository, make your changes, and open a PR.
+
+Make sure to include a concise description of your changes in the PR.
+
+### Our Contributors ✨
+
+<a href="https://github.com/MrMeCoding/TETR-VERGE/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MrMeCoding/TETR-VERGE" />
+</a>
