@@ -11,21 +11,21 @@
 
 ---
 ## Table of Contents
-[What's VERGE?](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#whats-verge)
+[What's VERGE?](https://github.com/MrMeCoding/TETR-VERGE?tab=readme-ov-file#whats-verge)
 
-[Demo](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#demo)
+[Demo](https://github.com/MrMeCoding/TETR-VERGE?tab=readme-ov-file#demo)
 
-[Features](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#features)
+[Features](https://github.com/MrMeCoding/TETR-VERGE?tab=readme-ov-file#features)
 
-[Download VERGE!](https://github.com/MrMeCoding/TETR-VERGE/releases/latest)
+[Download VERGE!](https://github.com/MrMeCoding/TETR-VERGE?tab=readme-ov-file#download-verge)
 
-[Installation](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#installation)
+[Installation](https://github.com/MrMeCoding/TETR-VERGE?tab=readme-ov-file#installation)
 
-[FAQ](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#faq)
+[FAQ](https://github.com/MrMeCoding/TETR-VERGE?tab=readme-ov-file#faq)
 
-[More images of VERGE](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#more-images-of-verge)
+[More images of VERGE](https://github.com/MrMeCoding/TETR-VERGE?tab=readme-ov-file#more-images-of-verge)
 
-[Contributing](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#contributing)
+[Contributing](https://github.com/MrMeCoding/TETR-VERGE?tab=readme-ov-file#contributing)
 
 
 
