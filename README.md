@@ -10,6 +10,25 @@
 </div>
 
 ---
+## Table of Contents
+[What's VERGE?](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#whats-verge)
+
+[Demo](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#demo)
+
+[Features](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#features)
+
+[Download VERGE!](https://github.com/MrMeCoding/TETR-VERGE/releases/latest)
+
+[Installation](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#installation)
+
+[FAQ](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#faq)
+
+[More images of VERGE](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#more-images-of-verge)
+
+[Contributing](https://github.com/MrMeCoding/TETR-VERGE/edit/main/README.md#contributing)
+
+
+
 
 ## What's VERGE?
 VERGE allows you to scope out opponents and understand their playstyle, strengths and weaknesses. VERGE automatically generates a player's traits by analyzing their statistics and previous matchups. A key difference between VERGE and other TETR.IO tools is that VERGE displays these stats in-game. Instead of needing to tab to a different window and type a player's name to see their playstyle, VERGE allows you to view critical information with a single click.
@@ -132,7 +151,7 @@ VERGE allows you to scope out opponents and understand their playstyle, strength
 </details>
 
 
-## Verge in action!
+## More images of VERGE
 ![VERGE analyzing Foxgirl](https://i.ibb.co/BZBXw7v/image-2024-01-13-220049879.png)
 ![VERGE analyzing Parrotsarecool](https://i.ibb.co/XVShbQz/image-2024-01-13-213044681.png)
 ![VERGE analyzing osk](https://i.ibb.co/H2NSFkk/image-2024-01-13-213259240.png)
