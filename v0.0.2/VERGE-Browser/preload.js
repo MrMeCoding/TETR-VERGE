@@ -490,7 +490,12 @@ window.addEventListener('load', function () {
 				let updateNickname = document.createElement("h6");
 				updateNickname.innerHTML = "\"" + stringify(updateData.version_nickname) + "\"";
 
+				let mainContent = document.createElement("div");
+				mainContent.className = "dialog_long";
 
+				mainContent.appendChild(updateNum);
+				mainContent.appendChild(updateNickname);
+				
 				if (PLATFORM == "desktop") {
 					let windowsIH = document.createElement("h2");
 					windowsIH.style.color = "#00FF96";
@@ -539,11 +544,7 @@ window.addEventListener('load', function () {
 						appleUI.innerHTML = "1. Download the file found <a href=\"" + stringify(updateData.desktop_update_url) + "\" target=\"_blank\">here</a>.<br>2.Find the TETR.IO Desktop application in the Applications folder in Finder.<br>3.Right click TETR.IO Desktop and click \"Show Package Contents\".<br>4.Open the \"Contents\" folder and then the \"resources\" folder.<br>5. Replace app.asar with the file you downloaded.<br>6. Your client is now updated!";
 					}
 
-					let mainContent = document.createElement("div");
-					mainContent.className = "dialog_long";
 
-					mainContent.appendChild(updateNum);
-					mainContent.appendChild(updateNickname);
 					mainContent.appendChild(windowsIH);
 					mainContent.appendChild(windowsUI);
 					mainContent.appendChild(windowsInputCode);
