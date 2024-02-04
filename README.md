@@ -61,7 +61,7 @@ VERGE allows you to scope out opponents and understand their playstyle, strength
 
 
 <details>
-	<b>All of them!</b> VERGE works on both TETR.IO desktop and browser!
+	<b>Most platforms.</b> VERGE currently supports Desktop and Chromium-based browsers.
 	<summary>
 		<h3>What platforms does VERGE work on?</h3>
 	</summary>
