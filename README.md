@@ -182,11 +182,10 @@ Due to the way VERGE updates work, we won't be able to directly merge the code i
   <img src="https://github.com/orn8.png?size=75">
 </a>
 
-<a href="https://github.com/Kerrmunism">
-  <img src="https://github.com/kerrmunism.png?size=75">
+<a href="https://github.com/UniQMG">
+  <img src="https://github.com/uniqmg.png?size=75" width=75 height=75>
 </a>
 
-
-<a href="https://github.com/UniQMG">
-  <img src="https://github.com/uniqmg.png?size=75">
+<a href="https://github.com/Kerrmunism">
+  <img src="https://github.com/kerrmunism.png?size=75">
 </a>
