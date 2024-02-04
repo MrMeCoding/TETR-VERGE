@@ -17,6 +17,8 @@ VERGE allows you to scope out opponents and understand their playstyle, strength
 ## Demo
 
 <img src="demo.gif" alt="VERGE DEMO" width="800"></img>
+###### *VERGE does not change in game font*
+
 
 ## Features
 - Displays:
