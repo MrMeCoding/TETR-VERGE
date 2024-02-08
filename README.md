@@ -170,26 +170,26 @@ Due to the way VERGE updates work, we won't be able to directly merge the code i
 
 ### Our Contributors ✨
 
-<a href="https://github.com/MrMeCoding">
+<a href="https://github.com/MrMeCoding" title="MrMeCoding (Author)">
   <img src="https://github.com/mrmecoding.png?size=75">
 </a>
 
-<a href="https://github.com/Sup3rFire">
+<a href="https://github.com/Sup3rFire" title="SuperFire">
   <img src="https://github.com/sup3rfire.png?size=75">
 </a>
 
-<a href="https://github.com/orn8">
+<a href="https://github.com/orn8" title="oragne">
   <img src="https://github.com/orn8.png?size=75">
 </a>
 
-<a href="https://github.com/UniQMG">
-  <img src="https://github.com/uniqmg.png?size=75" width=75 height=75>
+<a href="https://gitlab.com/UniQMG" title="UniQMG">
+  <img src="https://gitlab.com/uploads/-/system/user/avatar/2382711/avatar.png?width=75" width=75 height=75>
 </a>
 
-<a href="https://github.com/Kerrmunism">
+<a href="https://github.com/Kerrmunism" title="Kerrmunism">
   <img src="https://github.com/kerrmunism.png?size=75">
 </a>
 
-<a href="https://github.com/pncl9500">
+<a href="https://github.com/pncl9500" title="pncl">
   <img src="https://avatars.githubusercontent.com/u/80725620?v=4" width=75 height=75>
 </a>
