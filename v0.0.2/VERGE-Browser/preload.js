@@ -20,7 +20,7 @@ async function getData(req) {
 		if (localStorage.getItem(req) === null) {
 			const response = await fetch(url + req);
 			const result = await response.json();
-			localStorage.setItem(req, JSON.stringify(result));
+			// localStorage.setItem(req, JSON.stringify(result));
 			return result;
 		} else {
 			const result = JSON.parse(localStorage.getItem(req));
