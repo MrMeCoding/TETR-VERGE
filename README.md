@@ -193,3 +193,6 @@ Due to the way VERGE updates work, we won't be able to directly merge the code i
 <a href="https://github.com/pncl9500" title="pncl">
   <img src="https://avatars.githubusercontent.com/u/80725620?v=4" width=75 height=75>
 </a>
+<a href="https://github.com/Godof64" title="Godof64">
+  <img src="https://avatars.githubusercontent.com/u/108696070?v=4" width=75 height=75>
+</a>
