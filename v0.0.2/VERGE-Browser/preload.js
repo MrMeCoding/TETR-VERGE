@@ -306,6 +306,8 @@ window.addEventListener('load', function () {
 					addTrait("UMBREON", "This user mains misdrop cannon.", "f4b6b3");
 				} else if (mainUserData.data.user._id == "61b544b1e9c8d503799ba8e7") {
 					addTrait("MOON", "This user combos a lot.", "F3F4B3");
+				} else if (mainUserData.data.user._id == "6267b4fda32f5606802c56cd") {
+					addTrait("ICE", "Freezing", "F3F4B3");
 				}
 
 
