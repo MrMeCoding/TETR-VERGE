@@ -289,7 +289,7 @@ window.addEventListener('load', function () {
 				document.getElementById("loading").remove();
 
 				// Custom tags
-				if (mainUserData.data.user._id == "643fe1195290461b4c184095") {
+				if (mainUserData.data.user._id == "6267b4fda32f5606802c56cd") {
 					addTrait("GOLDEN RATIO", "A painter meets their subject eye to eye.", "#F3F4B3");
 
 				} else if (mainUserData.data.user._id == "62a78e80dea07bce363aa343") {
