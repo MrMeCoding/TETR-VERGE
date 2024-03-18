@@ -1,3 +1,6 @@
+<head>
+	<meta name="google-site-verification" content="tEX8ZSFDFeF4rC_8lw-vTLSGf5rQJu8W8AH01Ufzzgc" />
+</head>
 <div align="center">
 
 <img src="VERGE-LOGO.png" alt="VERGE: TETR.IO ANALYTICS" width="400"></img>
