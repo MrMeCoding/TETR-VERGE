@@ -1,8 +1,7 @@
 <div align="center">
 
-<br>
 <img src="VERGE-LOGO.png" />
-
+<br>
 
 <strong>VERGE is a powerful TETR.IO analytics engine.</strong>
 
