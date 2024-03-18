@@ -4,7 +4,7 @@
 <br>
 
 <strong>VERGE is a powerful TETR.IO analytics engine.</strong>
-
+<br>
 <a href="https://github.com/MrMeCoding/TETR-VERGE/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MrMeCoding/TETR-VERGE?style=for-the-badge"></a>
 <a href="https://github.com/MrMeCoding/TETR-VERGE/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-CC%204.0-purple?style=for-the-badge"></a>
 
