@@ -1,6 +1,7 @@
 <div align="center">
 
-![VERGE LOGO](https://github.com/MrMeCoding/TETR-VERGE/blob/main/VERGE-LOGO.png?raw=true)
+<img src="https://github.com/MrMeCoding/TETR-VERGE/blob/main/VERGE-LOGO.png?raw=true"></img>
+
 
 <strong>VERGE is a powerful TETR.IO analytics engine.</strong>
 
