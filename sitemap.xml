@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/issues</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/pulls</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/actions</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/security</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/releases/tag/v0.0.2</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/releases</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/issues/9</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/issues/8</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/issues/7</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/issues/5</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/ab3f29c517df2bcb52402657a30dcd95402cfec7</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/63d9a81ea45594672ef03f2e631cc67e39cad551</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/releases/tag/v0.0.1</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels?sort=name-asc</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels?sort=name-desc</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels?sort=count-desc</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels?sort=count-asc</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels/bug</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels/documentation</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels/duplicate</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels/enhancement</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels/good%20first%20issue</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels/help%20wanted</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels/invalid</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels/question</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/labels/wontfix</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?state=open</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?state=closed</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/44a9b02b61be49c50a8a919008afa5085464fb2d</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/bde0ab790bd3548c1a68b4ee1a8b51846fb79332</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/e8177cc58bdf024bbb930ce84b9a038f65a86eac</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/aba3a58cc886dc89eabc9230201a536dd082a0d2</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/9140a03e8520f2ec036cfdeee205a94a78770e8b</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/ab547f1787d6dede69cd3a998657f3e79009f922</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/447045beccbb0c2078eb0df423161977e0edfd69</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/8b1de6002a41d3e6307c079d6ee4f5792419983d</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/14913009b6e7b26271847bb2606a0c61814571d9</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/dd070a85a0ebeda21c231f81feb901c5e2f7e80f</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/da02a91a4245b85c767e6b39354e4e5da1dba1a3</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/651bb01e2eeeaab93a86d682a6c29bc3d6d8f435</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/d241b4741ff3d728444c5ebae481710a1c6ebada</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/0a3a6718aaaeb883c3b38d9e7bcb1b137579682b</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/76567ca9903f6d43985c76da59e78dffeaf1a605</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/b17db0a1ed1a69e7cb669e594bc520d44288d23c</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/d425fec487c9c21111a6c508e0746aa916333060</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/ef15deaccc0dcddfc9e081d5b18ef506fb28fe78</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/dee9f40d56e2c050b070ee66591943cf0baa0eb0</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/160001cfc34bcafccbf15940a63ac566f3d1db16</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/6ab366a025300ce8ad6e424b35314b7c58b3d88f</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/f46e345cfb73b9fa9412e5c6e4a042b14eb5ee47</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/ac5ede597b401179627ac88d459e2dc0f24159fb</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/34a6834c4a0331dce1af2178ea66f88969f7e4c8</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/700bd54c423fad77d231216411a571c3bc6f097c</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/bd48ad962a2bbfb04ed4e936c26ec81ed96f5d76</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/6f0117d9b3c5747d58a0b6af8efd0d26f6269dca</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/2d710f9ea1fb440a380548ac36cdb6347c3ee3ff</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/ce0c231f0558537e00755058e57c1d0fcc071b89</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/82605a946bf3a42512e8557e5fee2be6c558476a</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/3de6122b878a474b6c872e7f36d95d5613446b5c</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/c2cecdf24736e75f5024d641e7167bfa3fdc209e</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/69f2ecdf569e52bcfbbffb0240cb560b8272c2c0</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/dcd8f7940c8c25a25431ff2f2e1d741a6fa77b0d</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/aa83940de7b5b4856c2d918e50a3161fcff0f4f1</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/b0c565036e5e41b673666aea33d0dcbaf4368612</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/3470132da10a3aa2a4087e02661f618fdd3cbc67</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/7cd0ab944f436849663f3007d029859c959695c0</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/997202a7dae61909fb1b3fc9c3a8c4252b171c4c</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/c2f435192e211a9ee4e7247dab720c76e9a2f1b7</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/06410cc284b3ce026b733a47c8a0c71b1b142827</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/6454eb810d49cd8fa884f79169ccf74bc9f794f5</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/f2967f081598de7e7e02be41858b1a8efeaf0e37</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/3662adac61368eb385b0b10f7314f0dacfdba225</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/b32d2515bb4ffae5be73b03df4a123c66e826cde</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/97298b4fe9e1a460207e8756a95aef56cd62d5d7</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/075114da5825cd9d9bd4e041822fde7862fc6fb8</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/d4e2fc9db5c1335d4be903f0625e264cd657a234</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/7d48a2930e510ff59ce227e93240e18049504381</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/e41f239a47d29884d53b9d97788d17031c9c655e</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MrMeCoding/TETR-VERGE/commit/4149b5d4a1490526ef4df48a720dcaa7c565d088</loc>
+  <lastmod>2024-03-18T01:10:07+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+
+
+</urlset>
