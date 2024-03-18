@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/MrMeCoding/TETR-VERGE/blob/main/VERGE-LOGO.png?raw=true"></img>
+![VERGE analyzing Foxgirl](https://github.com/MrMeCoding/TETR-VERGE/blob/main/VERGE-LOGO.png?raw=true)
 
 
 <strong>VERGE is a powerful TETR.IO analytics engine.</strong>
@@ -36,7 +36,7 @@ VERGE allows you to scope out opponents and understand their playstyle, strength
 
 ## Demo
 
-<img src="demo.gif" alt="VERGE DEMO" width="800"></img>
+![VERGE analyzing Foxgirl](https://github.com/MrMeCoding/TETR-VERGE/blob/main/demo.gif?raw=true)
 ###### *VERGE does not change in game font*
 
 
