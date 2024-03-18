@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="VERGE-LOGO.png" alt="VERGE: TETR.IO ANALYTICS" width="400"></img>
+<img src="VERGE-LOGO.png" alt="VERGE: TETR.IO ANALYTICS" width="400">
 
 <strong>VERGE is a powerful TETR.IO analytics engine.</strong>
 
